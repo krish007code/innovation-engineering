@@ -1,0 +1,10 @@
+# Local desktop metadata and temporary document locks
+.directory
+.~lock.*#
+~$*
+__pycache__/
+*.pyc
+
+# Machine-specific dependency links
+node_modules/
+node_modules

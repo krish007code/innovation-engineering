@@ -1,0 +1,1467 @@
+{
+  "meta": {
+    "title": "Cortex Sentinel — Business Plan",
+    "date": "14 November 2026",
+    "currency": "INR",
+    "financial_period": "FY 2027–28 to FY 2036–37",
+    "note": "Illustrative classroom planning assumptions are labeled adjacent to numbers."
+  },
+  "contents": [
+    {
+      "title": "I) ABOUT US IN BRIEF",
+      "items": [
+        "Who we are, What we do",
+        "Vision, Mission"
+      ]
+    },
+    {
+      "title": "II) MARKET",
+      "items": [
+        "Our Playfield, Market Opportunities",
+        "Our Market: Historical Data, Forecasts on growth",
+        "Industry Growth Drivers, Target Market",
+        "Competitor Analysis: Strengths (include funding received, if any) & Weaknesses"
+      ]
+    },
+    {
+      "title": "III) MORE ABOUT US",
+      "items": [
+        "History & Shareholding",
+        "Services",
+        "Processes",
+        "Differentiators (+ logic of their sustainability)",
+        "Management Team",
+        "Organization Structure"
+      ]
+    },
+    {
+      "title": "IV) BUSINESS MODEL, FINANCIAL PROJECTIONS, INVESTMENT REQUIRED",
+      "items": [
+        "Revenue Model",
+        "Rollout plan",
+        "Marketing Strategy: Promotion strategy, Online strategy",
+        "Initiatives in Pipeline (with investment numbers, where possible)",
+        "Financial Projections & Investment required"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "template_page": 1,
+      "title": "Your Business Name",
+      "paragraphs": [
+        "CORTEX SENTINEL",
+        "Short Description: A prototype workstation-security companion combining fingerprint authentication, six environment checks and controlled credential use.",
+        "Business plan and staged engineering-funding proposal | 14 November 2026",
+        "Financial planning period: FY 2027–28 to FY 2036–37, April–March. Prepared by a five-member computer-science team led by Kavyansh Kumar Baghel.",
+        "All market estimates and financial projections in this plan are illustrative classroom planning assumptions, not measured market statistics, confirmed orders or promised results."
+      ],
+      "tables": [],
+      "subsections": [],
+      "bullets": [],
+      "visual": {
+        "type": "grey_product_rectangle",
+        "label": "Product image placeholder — Cortex Sentinel"
+      }
+    },
+    {
+      "template_page": 2,
+      "title": "Table of Contents",
+      "paragraphs": [
+        "The teacher’s contents wording and later page sequence are both retained. Section III material appears within the company, differentiation and team pages; its contents headings remain explicit."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "I) ABOUT US IN BRIEF",
+          "paragraphs": [],
+          "tables": [],
+          "bullets": [
+            "Who we are, What we do",
+            "Vision, Mission"
+          ]
+        },
+        {
+          "title": "II) MARKET",
+          "paragraphs": [],
+          "tables": [],
+          "bullets": [
+            "Our Playfield, Market Opportunities",
+            "Our Market: Historical Data, Forecasts on growth",
+            "Industry Growth Drivers, Target Market",
+            "Competitor Analysis: Strengths (include funding received, if any) & Weaknesses"
+          ]
+        },
+        {
+          "title": "III) MORE ABOUT US",
+          "paragraphs": [],
+          "tables": [],
+          "bullets": [
+            "History & Shareholding",
+            "Services",
+            "Processes",
+            "Differentiators (+ logic of their sustainability)",
+            "Management Team",
+            "Organization Structure"
+          ]
+        },
+        {
+          "title": "IV) BUSINESS MODEL, FINANCIAL PROJECTIONS, INVESTMENT REQUIRED",
+          "paragraphs": [],
+          "tables": [],
+          "bullets": [
+            "Revenue Model",
+            "Rollout plan",
+            "Marketing Strategy: Promotion strategy, Online strategy",
+            "Initiatives in Pipeline (with investment numbers, where possible)",
+            "Financial Projections & Investment required"
+          ]
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 3,
+      "title": "I) ABOUT US – IN BRIEF",
+      "paragraphs": [
+        "YOUR BUSINESS NAME: Cortex Sentinel",
+        "YOUR TAGLINE (IF ANY): Identity checked. Environment checked.",
+        "Proposed positioning: a visible, locally controlled security workflow for selected sensitive workstations. The product joins fingerprint verification with checks of the surrounding workstation environment before allowing its credential-injection function. It is being developed as a complementary control; it has not been shown to replace Windows authentication, endpoint protection or a firm’s security policies.",
+        "The immediate business objective is a teacher-directed request for a staged engineering pilot. The accepted planning envelope is ₹44,470 for ten devices, beginning with two engineering units. No grant, customer or production contract has been secured. The business proceeds towards commercial evaluation only if engineering tests, customer evidence and unit economics justify the next commitment."
+      ],
+      "tables": [],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 4,
+      "title": "Who We Are",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "What We do",
+          "paragraphs": [
+            "Cortex Sentinel is a student-led prototype combining an ESP32 hardware unit and a Windows/Python application. The team reports fingerprint functions, six pre-flight checks, continuing environment monitoring and TKC credential handling. The actual prototype still needs PCB and other upgrades. A refined working prototype is used as an explicit planning scenario, not as evidence of production readiness.",
+            "The retained problem is sensitive corporate workstation access: checking identity at one moment may leave the user with limited visibility into subsequent changes in the environment. Cortex Sentinel intends to make selected checks visible and connect them to credential use. The size and frequency of this problem in target firms still require direct customer evidence."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "III) MORE ABOUT US",
+          "paragraphs": [],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "History & Shareholding",
+          "paragraphs": [
+            "The current project exists at prototype stage; production has not begun. This plan formalizes the next engineering and customer-learning steps. Cortex Sentinel is the approved working name, without a claim of company incorporation, trademark registration or established trading history.",
+            "The five named contributors are computer-science majors. Legal ownership, equity allocations, incorporation date, founder capital and intellectual-property arrangements have not been established. These matters must be documented before external investment or commercial contracts."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Services",
+          "paragraphs": [
+            "The intended offering is a hardware unit with a supporting Windows application, followed by software updates and customer support at an estimated ₹500 per year. Gemini/AI functionality and its earlier subscription revenue are excluded. No 24-hour support or unlimited-service commitment is assumed."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Processes",
+          "paragraphs": [
+            "The six current checks cover SSID, BSSID, the USB baseline, process scanning, path/masquerade integrity and final verification. Fingerprint authentication is separate from these six checks. The user-reported monitoring configuration polls Wi-Fi every 10 seconds, USB every 3 seconds and processes every 30 seconds; these are configuration claims, not verified detection times.",
+            "Controlled recovery after restart or disconnect is planned: permission to inject credentials is invalidated until fresh fingerprint authentication and all six checks succeed. A failed or disconnected host process cannot be assumed to lock Windows. Device-side gating and Windows locking have different limits. Encrypted persistence and event-history implementation remain deferred."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 5,
+      "title": "Vision & Mission",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Vision",
+          "paragraphs": [
+            "Proposed vision: help small professional firms use sensitive workstations with a clearer understanding of who is using them and whether the immediate operating environment has changed."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Mission",
+          "paragraphs": [
+            "Proposed mission: develop and test a practical fingerprint-and-environment-checking companion, explain its limits honestly, and support deployments only where customers identify a useful workflow and the team can deliver it reliably.",
+            "For the first planning year, success means documented engineering performance, a validated customer problem and a credible cost model. Commercial growth is conditional on these foundations; it is not measured by an invented market share or an unsupported security claim."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 6,
+      "title": "II) OUR MARKET",
+      "paragraphs": [
+        "MARKET OVERVIEW & FORECASTING OF OUR INDUSTRY",
+        "Cortex Sentinel sits between workstation authentication, credential handling and endpoint-environment monitoring. The relevant customer decision is whether this combined workflow adds enough value alongside existing controls to justify another device, installation effort and continuing support.",
+        "The first discovery segment is Gurugram accounting and finance SMEs. Legal firms and small banks remain later candidates. India-wide and worldwide expansion are future ambitions, not dated commitments. ICAI’s September 2026 programme lists professional technology training in Gurugram, supporting the existence of a local professional ecosystem. It does not establish access to buyers or demand for this product. [4]",
+        "The market model that follows is a deliberately synthetic classroom planning exercise. Its firm counts, eligible seats and growth assumptions are selected inputs. They are not a survey of Gurugram, an estimate from a market-research publisher or a prediction of sales."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Our Market: Historical Data, Forecasts on growth",
+          "paragraphs": [
+            "A narrow initial model uses 100 potentially eligible firms, five relevant workstations per firm and ₹4,500 assumed device value: 100 × 5 × ₹4,500 = ₹22.50 lakh of illustrative one-time device value. This is a planning denominator only. Eligibility, actual prices, tax basis, replacement cycles and willingness to buy have not been measured."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 7,
+      "title": "Our Playfield",
+      "paragraphs": [
+        "The customer can address security through several layers. Windows Hello serves sign-in; a FIDO security key serves supported account authentication; endpoint software examines threats and device posture. Cortex Sentinel’s intended role is a narrower visible workflow joining biometric permission, selected environment checks and its own credential function. [1–3]",
+        "Graphic/Collage based overview of your industry: identity → workstation and peripherals → credential use → monitoring and response. Customer policy and installation authority surround every layer."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Layer",
+            "Existing alternative",
+            "Cortex Sentinel relevance"
+          ],
+          "rows": [
+            [
+              "Identity and sign-in",
+              "Windows Hello / Hello for Business",
+              "Fingerprint input is part of the reported prototype; equivalent OS sign-in protection is not established."
+            ],
+            [
+              "Account authentication",
+              "FIDO2/WebAuthn security keys",
+              "TKC credential handling follows a different mechanism; it is not demonstrated as equivalent to FIDO authentication."
+            ],
+            [
+              "Endpoint protection",
+              "Microsoft Defender for Business",
+              "Process and environment checks are not full EDR or a general malware detector."
+            ],
+            [
+              "Local operational workflow",
+              "IT policy, permitted peripherals and user procedures",
+              "A pilot must fit customer permissions, recovery and support processes."
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": [],
+      "visual": {
+        "type": "industry_layers",
+        "layers": [
+          "Identity",
+          "Workstation environment",
+          "Credential use",
+          "Monitoring / recovery"
+        ]
+      }
+    },
+    {
+      "template_page": 8,
+      "title": "Market Opportunities",
+      "paragraphs": [
+        "Illustrative classroom planning assumptions — not observed demand. The following three opportunities partition the same 100-firm scenario to avoid adding overlapping populations. Five eligible seats per firm and ₹4,500 per device are assumed throughout; values exclude annual service and do not imply obtainable sales."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Opportunity",
+            "Description",
+            "Illustrative quantification"
+          ],
+          "rows": [
+            [
+              "Opportunity 1",
+              "Small accounting practices with selected sensitive workstations; first discovery priority.",
+              "60 assumed firms × 5 seats = 300 devices; ₹13.50 lakh device value."
+            ],
+            [
+              "Opportunity 2",
+              "Finance, payroll and outsourced-accounting teams where shared operational procedures may matter.",
+              "25 assumed firms × 5 seats = 125 devices; ₹5.625 lakh device value."
+            ],
+            [
+              "Opportunity 3",
+              "Other finance-advisory teams with a suitable Windows workflow and permission to evaluate a peripheral.",
+              "15 assumed firms × 5 seats = 75 devices; ₹3.375 lakh device value."
+            ],
+            [
+              "Total",
+              "Synthetic initial eligible-firm scenario, not market census.",
+              "100 firms; 500 devices; ₹22.50 lakh."
+            ]
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Main complaints of customers: a), b), c)",
+          "paragraphs": [
+            "These are interview hypotheses, not collected complaints: (a) uncertainty about changes in workstation/peripheral conditions; (b) friction in credential and access procedures; (c) concern about recovery, false lockouts and support burden. Interviews must allow customers to report that existing controls are sufficient or that these issues are not important."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 9,
+      "title": "Market – Historical Data & Forecast",
+      "paragraphs": [
+        "Illustrative baseline sensitivity and forward planning scenario — synthetic, not measured historical market data or a researched forecast. The teacher’s example years and dollar figures are placeholders and are not adopted.",
+        "The retrospective panel simulates 80, 90 and 100 eligible firms for FY 2024–25, FY 2025–26 and FY 2026–27 solely to demonstrate the requested historical-chart format. These counts do not describe what actually happened. The forward scenario assumes 10 additional eligible firms per year from a 100-firm baseline; it does not assume that Cortex Sentinel wins those firms.",
+        "At five seats per firm and ₹4,500 per device, each additional ten firms adds ₹2.25 lakh to the illustrative one-time device-value denominator. There is no replacement demand, subscription revenue or annual purchasing frequency inside this calculation. The actual historical size and growth of the narrowly defined target market remain unmeasured."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Period",
+            "Assumed eligible firms",
+            "Assumed seats",
+            "Illustrative device value"
+          ],
+          "rows": [
+            [
+              "FY 2024–25 simulated baseline",
+              "80",
+              "400",
+              "₹18.00 lakh"
+            ],
+            [
+              "FY 2025–26 simulated baseline",
+              "90",
+              "450",
+              "₹20.25 lakh"
+            ],
+            [
+              "FY 2026–27 simulated baseline",
+              "100",
+              "500",
+              "₹22.50 lakh"
+            ],
+            [
+              "FY 2027–28 planning case",
+              "110",
+              "550",
+              "₹24.75 lakh"
+            ],
+            [
+              "FY 2028–29 planning case",
+              "120",
+              "600",
+              "₹27.00 lakh"
+            ],
+            [
+              "FY 2029–30 planning case",
+              "130",
+              "650",
+              "₹29.25 lakh"
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": [],
+      "visual": {
+        "type": "synthetic_market_charts",
+        "label": "Illustrative classroom scenario — not historical observations or a market forecast",
+        "historical_labels": [
+          "FY24–25",
+          "FY25–26",
+          "FY26–27"
+        ],
+        "historical_firms": [
+          80,
+          90,
+          100
+        ],
+        "forecast_labels": [
+          "FY27–28",
+          "FY28–29",
+          "FY29–30"
+        ],
+        "forecast_firms": [
+          110,
+          120,
+          130
+        ],
+        "value_per_firm": 22500
+      }
+    },
+    {
+      "template_page": 10,
+      "title": "Industry Growth Drivers",
+      "paragraphs": [
+        "The six drivers below explain why the team should investigate the opportunity. They are qualitative hypotheses or documented context, not measured causes of growth or evidence of customer demand. No percentage uplift is assigned to them."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Driver",
+            "Relevance",
+            "Evidence or test"
+          ],
+          "rows": [
+            [
+              "Driver 1: Sensitive digital workflows",
+              "Accounting and finance work may create a need for controlled workstation access.",
+              "Hypothesis: establish actual workflow, data sensitivity and current safeguards in discovery."
+            ],
+            [
+              "Driver 2: Multiple authentication alternatives",
+              "Native and hardware-key alternatives make security choices visible to buyers.",
+              "Official Microsoft/Yubico product descriptions; competition also raises the standard of proof. [1–2]"
+            ],
+            [
+              "Driver 3: Managed endpoint security",
+              "Businesses can buy endpoint protection with monitoring and response.",
+              "Defender’s offering is documented; it is a substitute/complement context, not proof of demand for Cortex. [3]"
+            ],
+            [
+              "Driver 4: Professional technology learning",
+              "Local professional organisations provide a context for discussing technology workflows.",
+              "ICAI Gurugram programme entry, September 2026; no partnership or leads inferred. [4]"
+            ],
+            [
+              "Driver 5: Institutional assurance requirements",
+              "Some financial institutions require strong vendor and system assurance.",
+              "RBI’s UCB directions contain vendor diligence and new-system review requirements; they also create adoption barriers. [5]"
+            ],
+            [
+              "Driver 6: Recovery and support usability",
+              "Customers may value predictable behavior after restart or disconnect.",
+              "Planned controlled recovery addresses this hypothesis; test behavior and customer value before claiming it."
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 11,
+      "title": "Target market (Based on previous slides)",
+      "paragraphs": [
+        "Users may be accountants or finance staff; a firm owner, manager or IT administrator may authorize and pay for deployment. These are hypotheses until interviews identify real roles. The project has no customer access yet and should not describe institutional directories as a pipeline.",
+        "Initial discovery targets five to eight exploratory conversations, not five to eight customers. A practical next gate is at least two firms willing to define a permitted evaluation and name a purchasing decision-maker; this is a proposed learning threshold, not a predicted conversion rate."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Segment",
+            "Description + Reason for targeting",
+            "Qualification conditions"
+          ],
+          "rows": [
+            [
+              "Segment A",
+              "Gurugram accounting/finance SMEs; approved first discovery priority. A local, bounded workstation workflow can be examined directly. The 100-firm classroom scenario is only a planning assumption.",
+              "Verify Windows environment, permitted USB hardware, installation rights, user/buyer/payer, current controls, actual pain and support needs. No existing customer access."
+            ],
+            [
+              "Segment B",
+              "Legal firms and small financial institutions, including relevant small-bank candidates, retained for later discovery. They may have sensitive workflows but are not validated buyers.",
+              "Do not transfer SME assumptions to banks. UCB vendor/system assurance requirements can add substantial qualification work. No market count, deployment promise or easier-procurement claim. [5]"
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 12,
+      "title": "Competitor Analysis",
+      "paragraphs": [
+        "Closest direct competitors: no single identical alternative has been established. These are the closest inspected alternatives for authentication and endpoint control, not a proven exhaustive competitor list. Their official claims describe their products; no independent comparative trial was performed.",
+        "The project should earn adoption through a specific useful workflow, measured reliability and manageable support. It cannot claim to be first, unique, cheaper on a comparable total-cost basis or more secure from this limited comparison."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Company",
+            "Description",
+            "Strengths",
+            "Weaknesses / fit limits"
+          ],
+          "rows": [
+            [
+              "Microsoft: Windows Hello / Hello for Business",
+              "Native biometric/PIN sign-in and managed organisational authentication.",
+              "Integrated authentication and managed identity support.",
+              "Compatible hardware, editions and identity setup matter; not the same workflow as the project. Funding received: not assessed. [1]"
+            ],
+            [
+              "Yubico: Security Key NFC",
+              "USB-A/NFC key supporting FIDO2/WebAuthn/U2F.",
+              "Established authentication standards and supported-service ecosystem.",
+              "Selected model excludes PIV/OATH; service compatibility matters. €29 was shown in Swiss locale, not an Indian landed quote. Funding received: not assessed. [2]"
+            ],
+            [
+              "Microsoft: Defender for Business",
+              "Endpoint protection with vulnerability management, antivirus and EDR.",
+              "Broader threat detection/response and administration.",
+              "Recurring service scope differs; India listing ₹250/user/month paid annually, GST extra, up to 300 users and five devices/user. Funding received: not assessed. [3]"
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 13,
+      "title": "Why US – Our Differentiators",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Differentiators (+ logic of their sustainability)",
+          "paragraphs": [
+            "The intended distinction is a visible local workflow combining fingerprint permission with six workstation-environment checks before the product’s credential function proceeds. Planned controlled recovery gives that workflow a clearer restart/disconnect rule. These are intended design characteristics; customer value and comparative effectiveness remain unverified.",
+            "A credible advantage would have to come from dependable operation, customer-specific workflow understanding, usable recovery and consistent support. Component availability alone does not create defensibility: competitors can assemble similar parts, and customers already have alternative security layers. No patent, exclusive supply arrangement or proprietary advantage has been established."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Initiatives in Pipeline (with investment numbers, where possible)",
+          "paragraphs": [
+            "First, verify two integrated devices and record faults, assembly time and delivered costs. Second, specify and test controlled recovery; its incremental engineering effort is not yet priced and must be checked against the pilot allowance before commitment. Third, complete the remaining eight only after the engineering gate.",
+            "Protected credential persistence, event history, mobile notifications and SIEM integration are deferred rather than silently included. Adding them requires a customer need, threat model, design effort and revised cost estimate. Gemini remains excluded."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Validation approach",
+          "paragraphs": [
+            "Actual valid performance results are not yet available. Prior document test numbers were disclosed as made up and are not used as empirical evidence. The validation plan separates genuine and impostor biometric attempts, tests each of the six checks, measures false lockouts and detection delay, and records restart, disconnect, clipboard and credential-exposure limitations.",
+            "Any classroom example must carry the adjacent label “Illustrative example results — hypothetical, not measured.” A fictional zero false accepts in 50 impostor attempts is only a fictional sample proportion, not proof of a zero true false-acceptance rate."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 14,
+      "title": "Team Profile",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Management Team",
+          "paragraphs": [],
+          "tables": [
+            {
+              "title": "",
+              "headers": [
+                "Member",
+                "Accepted planning responsibility"
+              ],
+              "rows": [
+                [
+                  "Kavyansh Kumar Baghel — Lead",
+                  "Coordination, integration, milestones and shared customer discovery."
+                ],
+                [
+                  "Manas Sharma",
+                  "Windows/Python application, monitoring and serial communication."
+                ],
+                [
+                  "King Kapoor",
+                  "ESP32 firmware, sensors, wiring and hardware integration."
+                ],
+                [
+                  "Nitin Kumar",
+                  "Test planning, security checks, results and technical documentation."
+                ],
+                [
+                  "Samarth Jain",
+                  "Component costs, financial inputs, operations and shared customer discovery."
+                ]
+              ]
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "title": "Organization Structure",
+          "paragraphs": [
+            "The five members are CS majors. Kavyansh coordinates the agreed workstreams; integration decisions, test findings and spending evidence should be reviewed together before releasing a milestone. Samarth maintains the cost and cash record, while Nitin preserves test protocols and raw outcomes.",
+            "These responsibilities have been accepted for planning. They do not establish individual qualifications, full-time availability, employment, compensation or ownership. Before commercial delivery, the team must check actual skills and hours, agree handoffs and obtain qualified assistance where hardware or security work exceeds its capability."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 15,
+      "title": "IV) BUSINESS MODEL & FINANCIAL Plan",
+      "paragraphs": [
+        "The business model begins with engineering validation, then a narrowly qualified customer evaluation, and only then potential commercial sales. A device sale and annual updates/support are the planned revenue categories. No sale is inferred from the ten engineering devices, and the pilot envelope does not fund ten years of operations.",
+        "The financial workbook covers 120 months from April 2027 to March 2037. It contains three illustrative cases and makes the principal risk visible: the base case loses money throughout the horizon. The accepted response is to improve validated economics, constrain spending or remain an engineering project, rather than present a forced profitable forecast."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Rollout plan",
+          "paragraphs": [
+            "Year one prioritizes the two-unit engineering gate, five to eight exploratory conversations, cost measurement and any permitted limited evaluation. Years two and three depend on actual customer and operational evidence. Geographic expansion has no automatic date."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Financial Projections & Investment required",
+          "paragraphs": [
+            "The teacher-directed request is framed around ₹44,470 of staged pilot resources. Award amount, terms and disbursement are unknown. The model separately illustrates recurring operating costs and unmet financing needs; those requirements are not secured facilities or an additional teacher ask."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 16,
+      "title": "Revenue Generation Model",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Revenue Model",
+          "paragraphs": [],
+          "tables": [
+            {
+              "title": "",
+              "headers": [
+                "Stream",
+                "Planning input",
+                "Qualification"
+              ],
+              "rows": [
+                [
+                  "Hardware",
+                  "₹4,500 retained per device in the model.",
+                  "A hypothetical net-retained price; original selling-price tax treatment and customer acceptance are unknown."
+                ],
+                [
+                  "Annual updates and support",
+                  "Estimated ₹500/year entitlement confirmed by the user; modeled as ₹500 retained.",
+                  "Attach, renewal, workload, service limits and tax basis remain assumptions."
+                ],
+                [
+                  "AI subscription",
+                  "Excluded.",
+                  "Gemini is deprecated; no AI subscription revenue in the model."
+                ]
+              ]
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "title": "Service economics",
+          "paragraphs": [
+            "Base-case variable support uses one hour per paid account per year at ₹250/hour plus ₹50 of platform allowance: ₹300 cost and ₹200 annual contribution before fixed maintenance. The stress case costs ₹550 and loses ₹50 at the same retained fee; the lighter-support case costs ₹175. These are workload and rate assumptions, not measured operating results.",
+            "Annual service cash is billed upfront in the workbook and recognized over twelve months, leaving a visible future service obligation. A renewal is not assumed for customers who never existed; cohorts begin from new modeled sales."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Marketing Strategy: Promotion strategy, Online strategy",
+          "paragraphs": [
+            "Begin with permission-based discovery and demonstrations of the defined workflow and limitations. An eventual online presence should explain compatibility, evidence, recovery and support terms rather than publish unverified protection claims. No campaign, website publication, institutional partnership or outreach has occurred.",
+            "An illustrative acquisition allocation of ₹8,000/month uses ₹6,000 already inside the ₹20,000 nonpay-overhead assumption plus eight hours already inside fixed operations at ₹250/hour. At one, two or four new paying firms, hypothetical CAC is ₹8,000, ₹4,000 or ₹2,000. Those denominators are sensitivity cases, not a conversion forecast; the allocation must not be charged again in the P&L."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 17,
+      "title": "Business Model Canvas",
+      "paragraphs": [
+        "The canvas connects confirmed project intent to explicit planning hypotheses. It is not evidence of contracts, customers, supply agreements or a validated business model."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Element",
+            "Plan and evidence boundary"
+          ],
+          "rows": [
+            [
+              "Customer segments",
+              "Gurugram accounting/finance SMEs first; legal firms and small banks later. Actual customers and installation fit unvalidated."
+            ],
+            [
+              "Value propositions",
+              "Visible fingerprint-plus-environment workflow and planned controlled recovery; effectiveness and value require evidence."
+            ],
+            [
+              "Channels",
+              "Proposed direct discovery, demonstrations and authorized evaluations; no channel relationships or pipeline."
+            ],
+            [
+              "Customer relationships",
+              "Planned setup guidance, documented recovery, updates and support; service levels and contracts to be defined."
+            ],
+            [
+              "Revenue streams",
+              "Device sale and annual updates/support; illustrative retained prices ₹4,500/₹500, no AI revenue."
+            ],
+            [
+              "Key resources",
+              "Five CS-major team members, reported ESP32/Python prototype and provisional ten-device configuration; capacity and skills not verified."
+            ],
+            [
+              "Key activities",
+              "Integration, threat-specific testing, customer discovery, assembly/QA, documentation, updates and support measurement."
+            ],
+            [
+              "Key partners",
+              "No partnerships established. Inspected component vendors are potential suppliers, not committed manufacturers or partners."
+            ],
+            [
+              "Cost structure",
+              "Component and unit-work allowances, setup, operating pay, overhead, support and working capital; substantial uncertainties remain."
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 18,
+      "title": "Projected Financials",
+      "paragraphs": [],
+      "tables": [],
+      "subsections": [
+        {
+          "title": "Revenue model, costs and balance sheet drivers",
+          "paragraphs": [
+            "Base assumptions: annual unit sales rise linearly from 24 to 240; assembly capacity is 20 devices/month; fixed operations are 40 hours/month at ₹250/hour, with ₹20,000/month other overhead. These are selected scenario mechanics, not researched sales growth or actual team commitments. Direct unit labor is already included in variable cost and is not duplicated in fixed operations.",
+            "The model separates customer receipts from revenue, core inventory purchases from expense, outstanding receivables, annual service obligations and financing gaps. It is pre-tax and uses constant FY 2027–28 purchasing power. Statutory tax, actual finance terms, full founder compensation and major redesign are unresolved exclusions, not claims that these costs are zero."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Unit economics",
+          "paragraphs": [],
+          "tables": [
+            {
+              "title": "",
+              "headers": [
+                "Cost component",
+                "Working assumption"
+              ],
+              "rows": [
+                [
+                  "Listed components plus cable allowance",
+                  "₹2,347"
+                ],
+                [
+                  "Wiring, driver, mounting and fabrication consumables",
+                  "₹250"
+                ],
+                [
+                  "Assembly/programming/testing labor",
+                  "₹400"
+                ],
+                [
+                  "Inbound freight",
+                  "₹80"
+                ],
+                [
+                  "Fulfillment / transactions",
+                  "₹170"
+                ],
+                [
+                  "Rework/warranty allowance",
+                  "₹200"
+                ],
+                [
+                  "Total variable cash-cost proxy",
+                  "₹3,447"
+                ],
+                [
+                  "Contribution at ₹4,500 retained",
+                  "₹1,053"
+                ]
+              ]
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "title": "Key Matrices: break-even",
+          "paragraphs": [
+            "Hardware-only monthly break-even = ceiling(fixed monthly cost ÷ positive device contribution). The base case requires ceiling(₹30,000 ÷ ₹1,053) = 29 devices/month, above its 20-device capacity. Nonpositive contribution has no finite unit break-even.",
+            "At twenty devices sold every month, hardware covers at most ₹21,060 of fixed monthly cost. Holding the other inputs fixed, covering ₹30,000 requires either ₹4,947 retained price or a ₹3,000 variable cost. These are single-driver thresholds, not attainable quotes, accepted prices or evidence of full-capacity sales."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 19,
+      "title": "Projected Financials",
+      "paragraphs": [
+        "Extract from detailed P&L, CF statement of your business’s financial model in excel",
+        "Illustrative Base scenario — not a forecast. Monetary figures below are ₹ lakh, rounded to two decimals from the workbook. Parentheses are not used: minus signs identify losses/outflows. Ten engineering devices are separate R&D, not commercial sales."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Fiscal year",
+            "Units",
+            "Revenue",
+            "Pre-tax result",
+            "Operating CF",
+            "Cash before extra funding"
+          ],
+          "rows": [
+            [
+              "FY 2027–28",
+              "24",
+              "1.10",
+              "-3.76",
+              "-3.92",
+              "-3.47"
+            ],
+            [
+              "FY 2028–29",
+              "48",
+              "2.28",
+              "-3.05",
+              "-3.09",
+              "-6.56"
+            ],
+            [
+              "FY 2029–30",
+              "72",
+              "3.47",
+              "-2.75",
+              "-2.80",
+              "-9.36"
+            ],
+            [
+              "FY 2030–31",
+              "96",
+              "4.70",
+              "-2.44",
+              "-2.48",
+              "-11.83"
+            ],
+            [
+              "FY 2031–32",
+              "120",
+              "5.94",
+              "-2.12",
+              "-2.15",
+              "-13.99"
+            ],
+            [
+              "FY 2032–33",
+              "144",
+              "7.19",
+              "-1.80",
+              "-1.83",
+              "-15.81"
+            ],
+            [
+              "FY 2033–34",
+              "168",
+              "8.45",
+              "-1.48",
+              "-1.50",
+              "-17.31"
+            ],
+            [
+              "FY 2034–35",
+              "192",
+              "9.71",
+              "-1.15",
+              "-1.17",
+              "-18.48"
+            ],
+            [
+              "FY 2035–36",
+              "216",
+              "10.98",
+              "-0.82",
+              "-0.84",
+              "-19.32"
+            ],
+            [
+              "FY 2036–37",
+              "240",
+              "12.26",
+              "-0.49",
+              "-0.45",
+              "-19.76"
+            ]
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Interpretation",
+          "paragraphs": [
+            "Revenue grows in the selected scenario, but the base case remains loss-making in every year. FY 2027–28 includes ₹42,470 of modeled pilot R&D expense; the separate ₹2,000 pilot reserve is held rather than expensed automatically. Year-one operating cash outflow is about ₹3.92 lakh.",
+            "The assumed initial ₹44,470 contribution is not an awarded grant. After that hypothetical inflow, the base case reaches approximately ₹19.76 lakh of additional financing need by the horizon. Negative cash is a signal to change or stop the operating case, not an available overdraft."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 20,
+      "title": "Projected Financials",
+      "paragraphs": [
+        "Investment ask + funds deployment",
+        "The proposed teacher-directed pilot request is ₹44,470, released against engineering evidence. This accepted planning envelope is not a binding quotation, a promised award or funding for ongoing operations. The request should be revised if actual component, recovery-development or integration costs differ materially."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Use / release",
+            "Amount",
+            "Condition"
+          ],
+          "rows": [
+            [
+              "Setup plus first two engineering units",
+              "₹16,154",
+              "₹10,000 assumed setup + 2 × ₹3,077 core build/inbound. Record actual invoices and engineering results."
+            ],
+            [
+              "Remaining eight units",
+              "₹24,616",
+              "8 × ₹3,077, only after documented electrical, firmware and physical-fit checks."
+            ],
+            [
+              "Conditional fulfillment",
+              "₹1,700",
+              "Use when actual packaging/delivery/transaction costs arise; no customer placement assumed."
+            ],
+            [
+              "Held rework/warranty reserve",
+              "₹2,000",
+              "Reserve, not automatic expense. No duplicate blanket contingency."
+            ],
+            [
+              "Total",
+              "₹44,470",
+              "Recurring overhead and significant redesign excluded."
+            ]
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Direct cash flow statement from the model",
+          "paragraphs": [
+            "The detailed workbook tracks customer receipts, core procurement, fulfillment, support, fixed operations and pilot spending. Its balancing-financing display is conditional: no facility has been arranged. A funding gap must not be reported as cash already available."
+          ],
+          "tables": [
+            {
+              "title": "",
+              "headers": [
+                "Base FY 2027–28 extract",
+                "₹"
+              ],
+              "rows": [
+                [
+                  "Operating cash flow",
+                  "−391,718.50"
+                ],
+                [
+                  "Hypothetical initial contribution",
+                  "44,470.00"
+                ],
+                [
+                  "Net movement / closing cash before extra funding",
+                  "−347,248.50"
+                ]
+              ]
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "title": "Scenario comparison",
+          "paragraphs": [],
+          "tables": [
+            {
+              "title": "",
+              "headers": [
+                "Case",
+                "Peak additional funding need",
+                "Meaning"
+              ],
+              "rows": [
+                [
+                  "Downside",
+                  "₹35.98 lakh",
+                  "Zero-sales stress with continuing assumed overhead; not a recommendation to spend for ten years."
+                ],
+                [
+                  "Base",
+                  "₹19.76 lakh",
+                  "Losses persist; economics/capacity must improve or commercialization should stop."
+                ],
+                [
+                  "Upside",
+                  "₹7.78 lakh",
+                  "Depends on lower unit allowances, greater capacity, stronger sales and renewal assumptions; no success probability assigned."
+                ]
+              ]
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": 21,
+      "title": "Projected Financials",
+      "paragraphs": [
+        "Include Graphs and Charts",
+        "Illustrative Base scenario, constant FY 2027–28 rupees. The revenue/result chart and cumulative cash chart are extracted from the workbook, not market data. Growing scenario revenue does not eliminate losses, and negative cash before extra financing is not an available bank balance."
+      ],
+      "tables": [],
+      "subsections": [],
+      "bullets": [],
+      "visual": {
+        "type": "financial_charts",
+        "source": "Cortex_Sentinel_Financial_Scenarios.xlsx",
+        "labels": [
+          "FY 2027–28",
+          "FY 2028–29",
+          "FY 2029–30",
+          "FY 2030–31",
+          "FY 2031–32",
+          "FY 2032–33",
+          "FY 2033–34",
+          "FY 2034–35",
+          "FY 2035–36",
+          "FY 2036–37"
+        ],
+        "revenue": [
+          110437.5,
+          227768.75,
+          347488.125,
+          469691.6875,
+          593634.18125,
+          718793.926875,
+          844805.7488124999,
+          971414.0241687499,
+          1098439.816918125,
+          1225757.8718426875
+        ],
+        "pretax": [
+          -376223.00000000006,
+          -304748.5,
+          -274788.75,
+          -243835.32499999998,
+          -212186.3275,
+          -180050.42925000002,
+          -147573.70047500002,
+          -114858.3903325,
+          -81976.07323275,
+          -48976.851262924974
+        ],
+        "cash": [
+          -347248.5,
+          -655969.75,
+          -935560.625,
+          -1183203.6375000002,
+          -1398501.5462500006,
+          -1581176.2823750007,
+          -1731033.197662501,
+          -1847936.0383637508,
+          -1931789.426854626,
+          -1976372.5987982382
+        ]
+      }
+    },
+    {
+      "template_page": 22,
+      "title": "Thank you!",
+      "paragraphs": [
+        "Cortex Sentinel seeks support for a disciplined engineering and customer-learning programme. The immediate decision is whether to resource the staged pilot, with spending linked to evidence and commercial expansion held behind product, customer and economic gates.",
+        "The team will report real test outcomes, including failures, maintain an auditable cost record and revise assumptions when evidence changes. A useful outcome may be a narrower product or a demonstrator rather than a commercial launch.",
+        "Prepared by Kavyansh Kumar Baghel, Manas Sharma, King Kapoor, Nitin Kumar and Samarth Jain."
+      ],
+      "tables": [],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": 23,
+      "title": "Final checklist",
+      "paragraphs": [],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Original label",
+            "Coverage"
+          ],
+          "rows": [
+            [
+              "Problem",
+              "Sensitive workstation access and environment-change visibility; customer importance still requires validation."
+            ],
+            [
+              "How it is being addressed",
+              "Fingerprint authentication, six checks, continuous monitoring, TKC and planned controlled recovery; limits clearly stated."
+            ],
+            [
+              "Competitors",
+              "Hello, Yubico Security Key NFC and Defender compared as distinct alternative layers."
+            ],
+            [
+              "Un serviced Gaps",
+              "Hypothesis: a useful visible local workflow remains unmet; no universal market gap established."
+            ],
+            [
+              "USP",
+              "Intended combined workflow; no proven uniqueness or superior security."
+            ],
+            [
+              "Plan for 1 Yr",
+              "Two-unit engineering gate, discovery, actual cost/support measurements and conditional evaluation."
+            ],
+            [
+              "Plan for 3 Yrs",
+              "Repeatable delivery only after evidence; expansion conditional, with demonstrator/stop option."
+            ],
+            [
+              "Operations Plan",
+              "Validate BOM and power/interfaces; assemble and test; record recovery, faults and support."
+            ],
+            [
+              "Marketing Plan",
+              "Permission-based discovery and accurate demonstrations; no invented pipeline or partnership."
+            ],
+            [
+              "Key Matrices",
+              "Positive-contribution break-even, capacity, cash exposure and acquisition/support economics."
+            ],
+            [
+              "Excel Sheet",
+              "Ten-year illustrative workbook supplied; source template preserved; original defects addressed in analysis copy."
+            ]
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Plan for 1 Yr",
+          "paragraphs": [
+            "FY 2027–28: begin with two devices and documented power, logic-level, wiring, enclosure and functional checks. Prepare the five-to-eight-conversation discovery exercise, distinguish user/buyer/payer and obtain permission before any evaluation. Release the remaining eight only after the engineering gate. Before commercial builds, measure real assembly/support effort and test an actual price proposal.",
+            "Planning windows are Q1 engineering and discovery preparation, Q2 evidence review, Q3 a limited authorized evaluation if ready and Q4 an economic decision. These are conditional windows, not promised launch dates."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Plan for 3 Yrs",
+          "paragraphs": [
+            "FY 2028–29 and FY 2029–30 develop only what real evidence supports. A learning path retains the project as a demonstrator if safe deployment, demand or affordable economics remain unresolved. A commercial path requires actual paying buyers, manageable service delivery and cash resources before repeat production. Wider India entry is considered only after repeatability; worldwide entry has no fixed date."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Operations Plan",
+          "paragraphs": [
+            "Use the provisional CP2102 ESP32/R307/SH1106/driver/buzzer/Micro-B/PEM200 configuration as a planning BOM, not a verified assembly. Check UART voltage and possible level shifting, common ground, current peaks, I2C pullups, cable data capability and all physical openings before replication.",
+            "Keep setup, unit assembly labor, fulfillment and reserve separate. Accept each unit against a defined protocol, preserve failure records and provide controlled recovery instructions. A critical safety/security failure stops deployment until addressed."
+          ],
+          "tables": [],
+          "bullets": []
+        },
+        {
+          "title": "Marketing Plan",
+          "paragraphs": [
+            "Start with the approved accounting/finance SME discovery priority. Ask for current workflows, problems, existing alternatives, installation constraints and purchasing processes without leading respondents. Distinguish interview interest, permission for evaluation, a paid pilot and a repeat purchase.",
+            "Illustrative three-year service contribution is ₹438 per initially paid account at ₹200 annual contribution and 70% renewal. At 50% initial attach, that becomes ₹219 per sold device. It is a finite scenario calculation, not lifetime value or proof that customer acquisition is profitable."
+          ],
+          "tables": [],
+          "bullets": []
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "template_page": "A",
+      "title": "References and basis of preparation",
+      "paragraphs": [
+        "External sources support narrowly described product offerings, listed prices and institutional context. Vendor statements are not independent comparative tests. Prices and stock may change; shipping, applicable tax treatment and compatibility require verification. The synthetic market counts and scenario sales are not derived from these sources.",
+        "Component prices [6–10] total ₹2,247; adding a ₹100 cable allowance gives ₹2,347. The remaining unit-cost lines are analyst allowances. No complete compatible-unit supplier quotation has been obtained.",
+        "The final plan is authorized for the classroom activity. The style-reference PDF is used for appearance only. User statements establish intended project choices, not empirical performance. The 23 teacher page requirements are preserved as ordered sections; substantive content may occupy additional physical pages."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Reference",
+            "Source",
+            "URL / local record"
+          ],
+          "rows": [
+            [
+              "1",
+              "Microsoft. Windows Hello for Business. Updated 29 March 2026; accessed 14 November 2026.",
+              "https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/"
+            ],
+            [
+              "2",
+              "Yubico. Security Key NFC product/protocol listing. Swiss-locale redirect; accessed 14 November 2026.",
+              "https://www.yubico.com/ch/product/security-key-series/security-key-nfc-by-yubico-black/"
+            ],
+            [
+              "3",
+              "Microsoft. Defender for Business, India pricing/capabilities. Accessed 14 November 2026.",
+              "https://www.microsoft.com/en-in/security/business/endpoint-security/microsoft-defender-business"
+            ],
+            [
+              "4",
+              "ICAI. September 2026 programme; 4 September Gurugram course listing. Accessed 14 November 2026.",
+              "https://www.icai.org/post/institute-program-sep2026"
+            ],
+            [
+              "5",
+              "RBI. UCB Cybersecurity, Technology: Risk, Resilience and Assurance Framework Directions, 31 July 2026. Selected vendor/new-system provisions.",
+              "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13616"
+            ],
+            [
+              "6",
+              "Probots. CP2102 ESP32 30-pin listing, ₹499 including GST; accessed 14 November 2026.",
+              "https://probots.co.in/esp32-30-pin-cp2102-development-board.html"
+            ],
+            [
+              "7",
+              "RoboPro. R307 sensor listing, ₹1,073 including GST on latest inspection; accessed 14 November 2026.",
+              "https://robopro.in/shop/r307-optical-fingerprint-sensor-module/"
+            ],
+            [
+              "8",
+              "techiesms. SH1106 OLED listing, ₹330 including GST; accessed 14 November 2026.",
+              "https://techiesms.com/product/1-3-inch-oled-display-i2c-sh1106-white/"
+            ],
+            [
+              "9",
+              "Probots. PEM200 enclosure, ₹330 including GST; accessed 14 November 2026.",
+              "https://probots.co.in/surface-mount-plastic-enclosure-medium-pem200.html"
+            ],
+            [
+              "10",
+              "RoboPro. Passive buzzer listing, ₹15 including GST; accessed 14 November 2026.",
+              "https://robopro.in/shop/5v-passive-piezoelectric-buzzer/"
+            ],
+            [
+              "11",
+              "Project user decisions and research records, 14 November 2026. Current name, scope, roles and planning decisions; actual implementation not independently verified.",
+              "research/decisions.md"
+            ],
+            [
+              "12",
+              "Cortex Sentinel Financial Scenarios workbook and checked calculation outputs, 14 November 2026. Illustrative scenarios only.",
+              "outputs/cortex-research-20261114/Cortex_Sentinel_Financial_Scenarios.xlsx"
+            ],
+            [
+              "13",
+              "Teacher template: BPLan_Simple Template.pdf, 23-page sequence and contents.",
+              "BPLan_Simple Template.pdf"
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    },
+    {
+      "template_page": "B",
+      "title": "Assumptions and evidence register",
+      "paragraphs": [
+        "Synthetic classroom estimates are expected planning cases, not actual historical observations. Actual customer access, measured technical performance and committed funding remain absent. This separation allows the plan to demonstrate business analysis without presenting invented research as evidence."
+      ],
+      "tables": [
+        {
+          "title": "",
+          "headers": [
+            "Category",
+            "Status",
+            "Use in this plan"
+          ],
+          "rows": [
+            [
+              "Name, team, roles, first discovery segment",
+              "Confirmed user intent",
+              "Cortex Sentinel; accepted workstream owners; Gurugram accounting/finance SMEs first."
+            ],
+            [
+              "ESP32/Python features",
+              "User-reported",
+              "Current description, not a code audit or verified performance claim."
+            ],
+            [
+              "Controlled recovery",
+              "Selected planned feature",
+              "Not yet implemented/tested; incremental cost must be assessed."
+            ],
+            [
+              "Market denominator and simulated history",
+              "Synthetic classroom assumption",
+              "100-firm baseline, five seats, linear changes; no measured Gurugram count."
+            ],
+            [
+              "Sales, wages, support and renewals",
+              "Illustrative scenario",
+              "Ten-year model sensitivity, not an intended forecast."
+            ],
+            [
+              "Engineering pilot",
+              "Accepted planning envelope",
+              "₹44,470, two then eight; no award or purchase inferred."
+            ],
+            [
+              "Historical performance figures",
+              "Unsupported as actual results",
+              "Excluded from empirical evidence; any example explicitly hypothetical."
+            ],
+            [
+              "Incorporation, equity, actual financing terms",
+              "Unestablished",
+              "No invented company, ownership or funding claims."
+            ]
+          ]
+        }
+      ],
+      "subsections": [],
+      "bullets": []
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "title": "Microsoft. Windows Hello for Business. Updated 29 March 2026; accessed 14 November 2026.",
+      "url": "https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/"
+    },
+    {
+      "id": 2,
+      "title": "Yubico. Security Key NFC product/protocol listing. Swiss-locale redirect; accessed 14 November 2026.",
+      "url": "https://www.yubico.com/ch/product/security-key-series/security-key-nfc-by-yubico-black/"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft. Defender for Business, India pricing/capabilities. Accessed 14 November 2026.",
+      "url": "https://www.microsoft.com/en-in/security/business/endpoint-security/microsoft-defender-business"
+    },
+    {
+      "id": 4,
+      "title": "ICAI. September 2026 programme; 4 September Gurugram course listing. Accessed 14 November 2026.",
+      "url": "https://www.icai.org/post/institute-program-sep2026"
+    },
+    {
+      "id": 5,
+      "title": "RBI. UCB Cybersecurity, Technology: Risk, Resilience and Assurance Framework Directions, 31 July 2026. Selected vendor/new-system provisions.",
+      "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13616"
+    },
+    {
+      "id": 6,
+      "title": "Probots. CP2102 ESP32 30-pin listing, ₹499 including GST; accessed 14 November 2026.",
+      "url": "https://probots.co.in/esp32-30-pin-cp2102-development-board.html"
+    },
+    {
+      "id": 7,
+      "title": "RoboPro. R307 sensor listing, ₹1,073 including GST on latest inspection; accessed 14 November 2026.",
+      "url": "https://robopro.in/shop/r307-optical-fingerprint-sensor-module/"
+    },
+    {
+      "id": 8,
+      "title": "techiesms. SH1106 OLED listing, ₹330 including GST; accessed 14 November 2026.",
+      "url": "https://techiesms.com/product/1-3-inch-oled-display-i2c-sh1106-white/"
+    },
+    {
+      "id": 9,
+      "title": "Probots. PEM200 enclosure, ₹330 including GST; accessed 14 November 2026.",
+      "url": "https://probots.co.in/surface-mount-plastic-enclosure-medium-pem200.html"
+    },
+    {
+      "id": 10,
+      "title": "RoboPro. Passive buzzer listing, ₹15 including GST; accessed 14 November 2026.",
+      "url": "https://robopro.in/shop/5v-passive-piezoelectric-buzzer/"
+    },
+    {
+      "id": 11,
+      "title": "Project user decisions and research records, 14 November 2026. Current name, scope, roles and planning decisions; actual implementation not independently verified.",
+      "url": "research/decisions.md"
+    },
+    {
+      "id": 12,
+      "title": "Cortex Sentinel Financial Scenarios workbook and checked calculation outputs, 14 November 2026. Illustrative scenarios only.",
+      "url": "outputs/cortex-research-20261114/Cortex_Sentinel_Financial_Scenarios.xlsx"
+    },
+    {
+      "id": 13,
+      "title": "Teacher template: BPLan_Simple Template.pdf, 23-page sequence and contents.",
+      "url": "BPLan_Simple Template.pdf"
+    }
+  ]
+}
